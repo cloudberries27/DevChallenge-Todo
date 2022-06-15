@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DevChallenge-Todo/static/css/main.19029075.css",
+    "main.js": "/DevChallenge-Todo/static/js/main.d5366dc7.js",
+    "index.html": "/DevChallenge-Todo/index.html",
+    "main.19029075.css.map": "/DevChallenge-Todo/static/css/main.19029075.css.map",
+    "main.d5366dc7.js.map": "/DevChallenge-Todo/static/js/main.d5366dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19029075.css",
+    "static/js/main.d5366dc7.js"
+  ]
+}
